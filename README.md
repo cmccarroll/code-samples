@@ -1,7 +1,7 @@
 *************************
 # code-samples
 
-All of the PHP files are written for the Codeigniter 3.X PHP framework. I have also written many classes, files and methods for other frameworks, i.e., Cake, Laravel, Symphony, Zend 1/2 and several "proprietary" frameworks. 
+All of the PHP files are written for the Codeigniter 2.X PHP framework back in 2015. I have also written many classes, files and methods for other frameworks, i.e., Cake, Laravel, Symphony, Zend 1/2 and several "proprietary" frameworks. 
 
 *************************
 Carroll-McCarroll.zip and Carroll-McCarroll.tar.gz
